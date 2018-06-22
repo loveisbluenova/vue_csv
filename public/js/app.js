@@ -5913,7 +5913,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 var app = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
     el: '#root',
-    template: '<app url="/payments" :map-fields="[\'id\',\'invoice_id\',\'landlord_id\',\'tenant_id\',\'amount\', \'status\', \'payment_method\', \'payment_status\', \'merchant_reference\',\'psp_reference\', \'payment_auth_result\']"></app>',
+    template: '<app url="/payments" :map-fields="[\'invoice_id\',\'landlord_id\',\'tenant_id\',\'amount\', \'status\', \'payment_method\', \'payment_status\', \'merchant_reference\',\'psp_reference\', \'payment_auth_result\']"></app>',
     components: { App: __WEBPACK_IMPORTED_MODULE_1__App_vue___default.a }
 });
 
